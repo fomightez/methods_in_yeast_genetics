@@ -11,6 +11,16 @@ methods in yeast genetics
 
 > Calculates yeast cell density given absorbance readings.  
 See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/tree/master/cell_density_estimator).
+
+
+
+---
+
+- next  
+
+> next  
+See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/tree/master/cell_density_estimator).
+
  ----------------------------------------------------------------------
  ----------------------------------------------------------------------
  ----------------------------------------------------------------------
