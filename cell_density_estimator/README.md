@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/methods_in_yeast_genetics/cell_density_estimator/cell_density_estimator_for_multiple_samples.ipynb)  
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/methods_in_yeast_genetics/notebooks/cell_density_estimator_for_multiple_samples.ipynb)  
 ^^^^^^^^^^  
 Press that button above to start.
 
