@@ -16,10 +16,10 @@ See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/
 
 ---
 
-- next  
+- yeast_growth_planner  
 
-> next  
-See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/tree/master/cell_density_estimator).
+> Performs calculations that aid in growing yeast suitable for use in experiments.  
+See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/tree/master/yeast_growth_planner).
 
  ----------------------------------------------------------------------
  ----------------------------------------------------------------------
