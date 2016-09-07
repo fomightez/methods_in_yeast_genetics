@@ -3,7 +3,7 @@
 Press that button above to start.
 
 
-cell_density_estimator - A  tool facilitating determining yeast cell density using absorbance readings.
+cell_density_estimator - A tool facilitating determining yeast cell density using absorbance readings.
 ===========================================================
  
 For those not interested in the code behind this but just want to quickly get a value, I'd suggest the web version of this tool [COMING SOON here](UPDATE WHEN DONE).
