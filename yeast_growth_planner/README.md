@@ -3,7 +3,7 @@
 Press that button above to start.
 
 
-Yeast Growth Planner - A tool that performs calculations that aid in growing yeast suitable for use in experiments.
+Yeast Growth Planner - A tool that performs calculations that aid in growing yeast suitable for use in experiments or for calculating doubling time.
 ===========================================================
  
 For those not interested in the code behind this but just want to quickly get a value, I'd suggest the web version of this tool [COMING SOON here, POSSIBLY??](UPDATE WHEN DONE).
