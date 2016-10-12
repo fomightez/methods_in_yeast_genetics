@@ -18,7 +18,7 @@ See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/
 
 - yeast_growth_planner  
 
-> Performs calculations that aid in growing yeast suitable for use in experiments.  
+> Performs calculations that aid in growing yeast suitable for use in experiments. Also aids in calculating doubling time.
 See more about it [here](https://github.com/fomightez/methods_in_yeast_genetics/tree/master/yeast_growth_planner).
 
  ----------------------------------------------------------------------
