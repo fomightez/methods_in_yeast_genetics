@@ -16,7 +16,7 @@ In order to run a fully functional interactive version in your browser, click th
 This tool should help you prepare your yeast cells for various experiments. You just need to edit the values to match your situation and run the calculations.
 
 
-Alternatively, you'll need to download the notebook and run it somewhere you have set to work with IPython or Jupyter Notebooks. The Jupyter notebook (formerly IPython notebook) for this tool can be found [here](https://github.com/fomightez/yeast_growth_planner/blob/master/yeast%20growth%20planner.ipynb) in this repo, and the static form is best viewed [here](http://nbviewer.jupyter.org/github/fomightez/methods_in_yeast_genetics/blob/master/yeast_growth_planner/yeast%20growth%20planner.ipynb). 
+Alternatively, you'll need to download the notebook and run it somewhere you have set to work with Jupyter Notebooks. The Jupyter notebook (formerly IPython notebook) for this tool can be found [here](https://github.com/fomightez/yeast_growth_planner/blob/master/yeast%20growth%20planner.ipynb) in this repo, and the static form is best viewed [here](http://nbviewer.jupyter.org/github/fomightez/methods_in_yeast_genetics/blob/master/yeast_growth_planner/yeast%20growth%20planner.ipynb). 
 
 
 
