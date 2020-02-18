@@ -20,7 +20,7 @@ cell_density_estimator - A tool facilitating determining yeast cell density usin
  
 In order to run a fully functional interactive version in your browser, click the appropriate badge above or below.
 
-This tool should help you count your cells in culture or roughly determine cell concentration using only OD660 readings from a spectrophotometer.
+This tool should help you count your cells in culture or roughly determine cell concentration using only OD<sub>660</sub> readings from a spectrophotometer.
 
 Alternatively, you'll need to download the notebook and run it somewhere you have set to work with Jupyter Notebooks. The Jupyter notebook (formerly IPython notebook) for this tool can be found [here](https://github.com/fomightez/cell_density_estimator/blob/master/cell_density_estimator_for_multiple_samples.ipynb) in this repo, and the static form is best viewed [here](http://nbviewer.jupyter.org/github/fomightez/methods_in_yeast_genetics/blob/master/cell_density_estimator/cell_density_estimator_for_multiple_samples.ipynb). (Github static display seems to not to display the plots.)
 
