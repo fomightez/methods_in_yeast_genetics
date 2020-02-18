@@ -1,4 +1,2 @@
 seaborn
-plotly
-biopython
 #bokeh seems to be installed by default so not needed here
