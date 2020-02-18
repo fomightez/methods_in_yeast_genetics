@@ -1,2 +1,2 @@
 seaborn
-#bokeh seems to be installed by default so not needed here
+bokeh
